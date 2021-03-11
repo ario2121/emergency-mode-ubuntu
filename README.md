@@ -4,7 +4,7 @@ You are in emergency mode. After logging in, type .......  Press Enter for maint
 
 
 # Steps:
-### 1:We need a Linux live cd.
+### 1: We need a Linux live cd.
 ### 2: go to boot in BIOS and select flash to firstboot.
 ### 3: reset your computer. 
 ### 4: after boot ubuntu in live cd open terminal. 
